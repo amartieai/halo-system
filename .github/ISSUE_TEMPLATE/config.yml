@@ -1,0 +1,5 @@
+blank_issues_enabled: true
+contact_links:
+  - name: Security or privacy concern
+    url: https://github.com/amartieai/halo-system/blob/main/SECURITY.md
+    about: How to report exposed data or a privacy concern — please do not post sensitive material in a public issue.
