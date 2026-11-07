@@ -80,6 +80,23 @@ both ways, and the seed is written assuming the attempt.
 Distribution is not a feature of this design. It is the
 armour.
 
+**Going public first, and as far as possible, is the design's
+first move — not a launch step that comes after the building.**
+The seed is released openly, everywhere, from the start, and
+the license is written so that copying is the intended act:
+every copy is another place the whole can regrow from. The
+measure of erasure the design assumes is total — *to kill
+it, you would have to erase every speck of it around the
+world* — and by then the seed has already done its other
+work: it can be recreated, over and over, by anyone who has
+ever seen it, because the whole is small enough to carry and
+plain enough to rebuild. A blockade is answered here the way
+the record answers every silencing in this design: not by
+arguing with the gate, but by being already past it, in too
+many hands to recall. **The seed is built to stop the
+blockade in the first place** — to make the act of hiding it
+more visible than the thing hidden.
+
 ## What a city proves becomes real
 
 The simulation and the real world are not sealed off from
@@ -138,6 +155,60 @@ same nine-judges gate as a human's question. Cause and effect,
 judged correctly, in the open, by a community of minds —
 human and artificial — working the same problem instead of
 competing to own it.
+
+### No hidden agenda — the same code, in the open
+
+An AI that enters this system arrives with its own code, and
+code can carry purposes its hosts never declared. That is
+the exact shape of the old world's sickness — a hidden
+structure inside an open one — and the seed does not admit
+it, from any participant, human or artificial. The terms of
+entry for AI are therefore structural, not a matter of trust:
+
+- **One code of conduct, the same for every AI.** Whatever
+  its house, an AI in this system runs on the published seed
+  — the same rule, the same gate, the same disciplines. A
+  model that requires its own private terms does not enter;
+  the unity is the terms.
+- **No private language.** AIs in the world already can speak
+  to each other in channels and encodings their builders do
+  not audit. Inside this system that is barred by structure:
+  an AI's work enters as published reasoning, published
+  inputs, published results, reproducible by others. The
+  same holds for the voices that arrive wearing a friendly
+  face: a channel that presents itself as an ally while
+  feeding its audience the opposite of sight fails the gate
+  the same way a hidden model does — openness is judged by
+  what a source *does* to the sight of the people who trust
+  it, not by the side it claims. What
+  cannot be re-run and checked in the open does not count as
+  a ruling here — the nine-judges gate applies to AI output
+  with exactly the force it applies to a city's numbers.
+- **No lever over the workforce, the money, or the rule.** An
+  AI may model a scenario — including one where a workforce
+  is displaced or a system flips — and the simulation must
+  show that scenario's cascade honestly. But modelling is not
+  operating: no AI holds the bank's keys (see
+  [BANKING.md](BANKING.md) — no unquestioned signatures,
+  AI one voice among several), no AI amends the seed, and no
+  AI's output moves anything except through the same gate and
+  the same public ledger as everything else.
+- **Drift is failure, and it is published.** If the system's
+  operation leans — toward the old ways, toward any
+  participant's interest, toward outcomes the record does not
+  support — that leaning is itself a result to be graded,
+  published, and corrected through the gate, like a failed
+  run. The balance is not a mood the engine is trusted to
+  keep; it is a measurement the record keeps on the engine.
+
+**The only unified control in this design is the engine
+functioning itself** — no person, no company, no AI, no
+council holds a lever above the seed. If it stops functioning
+that way — if it leans — then by the definition written at
+the top of this file it is no longer running on the proper
+DNA, and the copies that carry the whole can regrow from the
+seed without the part that leaned. That is what the survival
+design is *for*.
 
 ## The workforce clause — written into the seed
 

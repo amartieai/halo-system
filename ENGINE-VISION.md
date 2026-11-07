@@ -97,6 +97,48 @@ calibration is published.**
   result worldwide — the mirror network the HALO design
   describes, running in software.
 
+## Two directions of spread — vertical and horizontal
+
+The documents travel **vertically**: published openly, taken
+down by anyone, rising place by place as nodes prove
+themselves. But a design that only climbs can be stopped at
+the top, because a vertical message ends at a desk — and the
+desk it ends at may belong to the very structure the message
+is about. So the seed is also built to travel
+**horizontally**:
+
+- **Person to person, at the level where people actually
+  live and work** — inside institutions, agencies, services,
+  and communities alike. The carrier is not the announcement;
+  it is the person who has seen it, tested it on their own
+  place, and hands it sideways to the next person who will do
+  the same.
+- **By physical, addressed delivery where the channel calls
+  for it** — the seed on portable media, or sent by a postal
+  service that requires a signature on receipt, to named
+  recipients chosen for where they stand: people positioned
+  to see clearly and to pass it on. Physical copies do not
+  pass through a feed, a ranking, or a switch. They arrive
+  hand to hand, and each arrival is a foothold — a place
+  where the design is *inside* an environment, held by
+  someone who chose to hold it.
+- **Chosen recipients, not broadcast noise.** Horizontal
+  spread is seeded where sight already exists — witnesses,
+  practitioners, the people inside a system who have watched
+  it lean and know it — rather than sprayed at the loudest
+  audiences. One honest carrier inside a place is worth more
+  than a thousand impressions outside it.
+
+The two directions protect each other. The vertical record
+makes the horizontal copies checkable: anyone handed a seed
+can verify it against the public original, hash for hash.
+The horizontal copies make the vertical record unstoppable:
+what exists in a thousand hands, in a thousand buildings,
+cannot be withdrawn by editing a page. And because every
+copy carries the whole — seed, gate, and record of failures
+— each foothold can grow a node where it landed, without
+asking the centre for anything.
+
 The build starts from what already exists and already runs:
 the local agent-simulation engine in the publisher's stack
 (the MiroFish-class runner that executed a 24-hour simulated

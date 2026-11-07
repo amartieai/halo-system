@@ -10,8 +10,23 @@ charter (no v1 design content changed):
   before branches: the seed below the kernel holding the
   rules of law, the entire structure, and the nine judges;
   the conformance rule for every node, plugin, and branch;
-  the unified-AI clause; and the workforce clause — a
-  scenario that hides the workforce cascade fails the gate.
+  the unified-AI clause (with the no-hidden-agenda terms:
+  one published code of conduct for every AI, no private
+  language, no lever over workforce, money, or rule, and
+  drift measured and published as failure); and the
+  go-public-first distribution written in as the seed's
+  first move (erase every speck or it regrows), and
+  friendly-face channels held to the same openness test
+  as hidden models; horizontal distribution
+  (person-to-person and physical addressed delivery) written
+  into ENGINE-VISION as the second direction of spread — and the
+  workforce clause — a scenario that hides the workforce
+  cascade fails the gate.
+- New: BANKING.md — the governing bank: custody without
+  ownership, funds distributed across nodes (no single
+  vault to rob), movements gated, simulated first, and
+  published; creation fixed in the open charter; breach
+  assumed, rehearsed, and disclosed in full.
 
 - README: "Start here" section — what HALO is today (an open
   public design/framework), the minimal first path, and what

@@ -101,6 +101,10 @@ populace.
   the seed below the kernel — the rules of law, the entire
   structure, and the nine judges — that every node, plugin,
   and branch must follow to be part of this system.
+- [BANKING.md](BANKING.md) — the governing bank: where the
+  world's funds sit, how they are created and distributed,
+  and how custody is defended — no single vault, no
+  unquestioned signature, every movement published.
 - [DESIGN.md](DESIGN.md) — the full system design.
 - [CALIBRATION.md](CALIBRATION.md) — how decisions are calibrated:
   the tiered decision layers, the adversarial inputs, and why
